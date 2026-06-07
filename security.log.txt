@@ -1,0 +1,8 @@
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Successful login: admin"}
+{"level":"warn","message":"Failed login for: hacker at 2025-04-07T18:43:15.000Z"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #3"}
+{"level":"warn","message":"Account locked: admin"}
+{"level":"info","message":"User created: Ali Hassan"}
+{"level":"info","message":"User deleted: ID 1014"}
+{"level":"warn","message":"Invalid API key from IP: 192.168.1.5"}
